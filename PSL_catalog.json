@@ -2,87 +2,87 @@
     "project_one_line": {
         "start_header": null,
         "end_header": null,
-        "source": "https://github.com/noorg/TestProject",
+        "source": "https://github.com/PSLmodels/PCI",
         "type": "html",
-        "data": "<p>Short description of project, probably under 100 characters</p>"
+        "data": "A machine learning project that analyzes state-run media to predict policy changes."
     },
     "project_overview": {
-        "start_header": "Project Overview",
-        "end_header": "Key Features",
-        "source": "markdown.md",
+        "start_header": "What is the Policy Change Index (PCI) of China?",
+        "end_header": "Disclaimer",
+        "source": "https://github.com/PSLmodels/PCI/blob/master/README.md",
         "type": "github_file",
-        "data": null
+        "data": "What is the Policy Change Index (PCI) of China?"
     },
-    "key_features": {
-        "start_header": "Key Features",
-        "end_header": "Citation",
-        "source": "markdown.md",
-        "type": "github_file",
-        "data": null
-    },
+    // "key_features": {
+    //     "start_header": "Key Features",
+    //     "end_header": "Citation",
+    //     "source": "markdown.md",
+    //     "type": "github_file",
+    //     "data": null
+    // },
     "citation": {
-        "start_header": "Citation",
-        "end_header": "License",
-        "source": "markdown.md",
+        "start_header": "Citing the Policy Change Index (PCI) of China",
+        "end_header": null,
+        "source": "https://github.com/PSLmodels/PCI/blob/master/README.md",
         "type": "github_file",
-        "data": null
+        "data": "Citing the Policy Change Index (PCI) of China"
     },
     "license": {
-        "start_header": "License",
-        "end_header": "User Documentation",
-        "source": "markdown.md",
+        "start_header": null,
+        "end_header": null,
+        "source": "https://github.com/PSLmodels/PCI/blob/master/LICENSE.md",
         "type": "github_file",
-        "data": null
+        "data": "PCI Open-Source License"
     },
     "user_documentation": {
-        "start_header": "User Documentation",
-        "end_header": "User Changelog",
-        "source": "markdown.md",
+        "start_header": null,
+        "end_header": null,
+        "source": "https://github.com/PSLmodels/PCI/blob/master/README.md",
         "type": "github_file",
         "data": null
     },
     "user_changelog": {
-        "start_header": "User Changelog",
-        "end_header": "User Changelog Recent",
-        "source": "markdown.md",
+        "start_header": null,
+        "end_header": null,
+        "source": "https://github.com/PSLmodels/PCI/blob/master/CHANGES.md",
         "type": "github_file",
-        "data": null
+        "data": "PCI Change Log"
     },
-    "user_changelog_recent": {
-        "start_header": "User Changelog Recent",
-        "end_header": "Dev Changelog",
-        "source": "markdown.md",
-        "type": "github_file",
-        "data": null
-    },
-    "dev_changelog": {
-        "start_header": "Dev Changelog",
-        "end_header": "Disclaimer",
-        "source": "markdown.md",
-        "type": "github_file",
-        "data": null
-    },
+    // "user_changelog_recent": {
+    //     "start_header": "User Changelog Recent",
+    //     "end_header": "Dev Changelog",
+    //     "source": "markdown.md",
+    //     "type": "github_file",
+    //     "data": null
+    // },
+    // "dev_changelog": {
+    //     "start_header": "Dev Changelog",
+    //     "end_header": "Disclaimer",
+    //     "source": "markdown.md",
+    //     "type": "github_file",
+    //     "data": null
+    // },
     "disclaimer": {
         "start_header": "Disclaimer",
-        "end_header": "User Case Studies",
-        "source": "markdown.md",
+        "end_header": "Usage",
+        "source": "https://github.com/PSLmodels/PCI/blob/master/README.md",
         "type": "github_file",
-        "data": null
+        "data": "Disclaimer"
     },
-    "user_case_studies": {
-        "start_header": "User Case Studies",
-        "end_header": "Project Roadmap",
-        "source": "markdown.md",
-        "type": "github_file",
-        "data": null
-    },
-    "project_roadmap": {
-        "start_header": "Project Roadmap",
-        "end_header": "Contributor Overview",
-        "source": "markdown.md",
-        "type": "github_file",
-        "data": null
-    },
+    // "user_case_studies": {
+    //     "start_header": "User Case Studies",
+    //     "end_header": "Project Roadmap",
+    //     "source": "markdown.md",
+    //     "type": "github_file",
+    //     "data": null
+    // },
+    // "project_roadmap": {
+    //     "start_header": "Project Roadmap",
+    //     "end_header": "Contributor Overview",
+    //     "source": "markdown.md",
+    //     "type": "github_file",
+    //     "data": null
+    // },
     "contributor_overview": {
         "start_header": "Contributor Overview",
         "end_header": "Contributor Guide",
