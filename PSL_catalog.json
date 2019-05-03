@@ -39,7 +39,7 @@
         "end_header": null,
         "source": "https://github.com/PSLmodels/PCI/blob/master/README.md",
         "type": "github_file",
-        "data": null
+        "data": "PCI User Documentation"
     },
     "user_changelog": {
         "start_header": null,
@@ -83,74 +83,74 @@
     //     "type": "github_file",
     //     "data": null
     // },
-    "contributor_overview": {
-        "start_header": "Contributor Overview",
-        "end_header": "Contributor Guide",
-        "source": "markdown.md",
-        "type": "github_file",
-        "data": null
-    },
-    "contributor_guide": {
-        "start_header": "Contributor Guide",
-        "end_header": "Governance Overview",
-        "source": "markdown.md",
-        "type": "github_file",
-        "data": null
-    },
-    "governance_overview": {
-        "start_header": "Governance Overview",
-        "end_header": "Public Funding",
-        "source": "markdown.md",
-        "type": "github_file",
-        "data": null
-    },
-    "public_funding": {
-        "start_header": "Public Funding",
-        "end_header": "Link to webapp",
-        "source": "markdown.md",
-        "type": "github_file",
-        "data": null
-    },
-    "link_to_webapp": {
-        "start_header": "Link to webapp",
-        "end_header": "Link to public issue tracker",
-        "source": "markdown.md",
-        "type": "github_file",
-        "data": null
-    },
+    // "contributor_overview": {
+    //     "start_header": "Contributor Overview",
+    //     "end_header": "Contributor Guide",
+    //     "source": "markdown.md",
+    //     "type": "github_file",
+    //     "data": null
+    // },
+    // "contributor_guide": {
+    //     "start_header": "Contributor Guide",
+    //     "end_header": "Governance Overview",
+    //     "source": "markdown.md",
+    //     "type": "github_file",
+    //     "data": null
+    // },
+    // "governance_overview": {
+    //     "start_header": "Governance Overview",
+    //     "end_header": "Public Funding",
+    //     "source": "markdown.md",
+    //     "type": "github_file",
+    //     "data": null
+    // },
+    // "public_funding": {
+    //     "start_header": "Public Funding",
+    //     "end_header": "Link to webapp",
+    //     "source": "markdown.md",
+    //     "type": "github_file",
+    //     "data": null
+    // },
+    // "link_to_webapp": {
+    //     "start_header": "Link to webapp",
+    //     "end_header": "Link to public issue tracker",
+    //     "source": "markdown.md",
+    //     "type": "github_file",
+    //     "data": null
+    // },
     "public_issue_tracker": {
-        "start_header": "Link to public issue tracker",
-        "end_header": "Link to public question/answer site",
-        "source": "markdown.md",
+        "start_header": null,
+        "end_header": null,
+        "source": "https://github.com/PSLmodels/PCI/issues",
         "type": "github_file",
-        "data": null
+        "data": "PCI Issues"
     },
     "public_qanda": {
-        "start_header": "Link to public question/answer site",
+        "start_header": null,
         "end_header": null,
-        "source": "markdown.md",
+        "source": "https://github.com/PSLmodels/PCI/issues",
         "type": "github_file",
-        "data": null
+        "data": "PCI Public Q&As"
     },
     "core_maintainers": {
         "start_header": null,
         "end_header": null,
-        "data": "<ul><li>John Smith</li>",
-        "source": null,
-        "type": "html"
+        "source": "Julian TszKin Chan; Weifeng Zhong",
+        "type": null,
+        "data": "Core Maintainers"
     },
     "unit_test": {
         "start_header": null,
         "end_header": null,
-        "data": "<a href=\"https://github.com/noorg/TestProject/tests\">https://github.com/noorg/TestProject/tests</a>",
-        "source": "https://github.com/noorg/TestProject/tests",
-        "type": "html"
+        "source": "https://github.com/PSLmodels/PCI/tree/master/PCI-China/tests",
+        "type": "github_file",
+        "data": "Unit Tests"
     },
     "integration_test": {
         "start_header": null,
         "end_header": null,
-        "data": "<a href=\"https://github.com/noorg/TestProject/tests\">https://github.com/noorg/TestProject/tests</a>",
-        "source": "https://github.com/noorg/TestProject/tests",
-        "type": "html"
+        "source": "https://github.com/PSLmodels/PCI/tree/master/PCI-China/tests",
+        "type": "github_file",
+        "data": "Integration Tests"
     }
 }
