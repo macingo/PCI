@@ -7,40 +7,40 @@
 		"data": "<p>A machine learning project that analyzes state-run media to predict policy changes.</p>"
 	},
 	"project_overview": {
-		"start_header": "What is the Policy Change Index (PCI) of China?",
+		"start_header": "What is the Policy Change Index (PCI) for China?",
 		"end_header": "Disclaimer",
 		"source": "README.md",
 		"type": "github_file",
 		"data": null
 	},
 	"citation": {
-		"start_header": "Citing the Policy Change Index (PCI) of China",
+		"start_header": "Citing the Policy Change Index (PCI) for China",
 		"end_header": null,
 		"source": "README.md",
 		"type": "github_file",
 		"data": null
 	},
-	"license": {
-		"start_header": null,
-		"end_header": null,
-		"source": "https://github.com/PSLmodels/PCI/blob/master/LICENSE.md",
-		"type": "html",
-		"data": "<p>GNU Affero General Public License v3.0</p>"
-	},
-	"user_documentation": {
-		"start_header": null,
-		"end_header": null,
-		"source": "https://github.com/PSLmodels/PCI/blob/master/README.md",
-		"type": "html",
-		"data": "<a href=\"https://github.com/PSLmodels/PCI/blob/master/README.md\">https://github.com/PSLmodels/PCI/blob/master/README.md</a>"
-	},
-	"user_changelog": {
-		"start_header": null,
-		"end_header": null,
-		"source": "https://github.com/PSLmodels/PCI/blob/master/CHANGES.md",
-		"type": "html",
-		"data": "<a href=\"https://github.com/PSLmodels/PCI/blob/master/CHANGES.md\">https://github.com/PSLmodels/PCI/blob/master/CHANGES.md</a>"
-	},
+    "license": {
+        "start_header": null,
+        "end_header": null,
+        "source": null,
+        "type": "html",
+        "data": "<a href=\"https://github.com/PSLmodels/PCI/blob/master/LICENSE.md\">GNU Affero General Public License v3.0</a>"
+    },
+    "user_documentation": {
+        "start_header": null,
+        "end_header": null,
+        "source": null,
+        "type": "html",
+        "data": "<a href=\"https://github.com/PSLmodels/PCI/blob/master/README.md\">PCI User Documentation</a>"
+    },
+    "user_changelog": {
+        "start_header": null,
+        "end_header": null,
+        "source": null,
+        "type": "html",
+        "data": "<a href=\"https://github.com/PSLmodels/PCI/blob/master/CHANGES.md\">PCI Change History</a>"
+    },
 	"disclaimer": {
 		"start_header": "Disclaimer",
 		"end_header": "Usage",
@@ -48,20 +48,20 @@
 		"type": "github_file",
 		"data": null
 	},
-	"public_issue_tracker": {
-		"start_header": null,
-		"end_header": null,
-		"source": null,
-		"type": "html",
-		"data": "<a href=\"https://github.com/PSLmodels/PCI/issues\">https://github.com/PSLmodels/PCI/issues</a>"
-	},
-	"public_qanda": {
-		"start_header": null,
-		"end_header": null,
-		"source": null,
-		"type": "html",
-		"data": "<a href=\"https://github.com/PSLmodels/PCI/issues\">https://github.com/PSLmodels/PCI/issues</a>"
-	},
+    "public_issue_tracker": {
+        "start_header": null,
+        "end_header": null,
+        "source": null,
+        "type": "html",
+        "data": "<a href=\"https://github.com/PSLmodels/PCI/issues\">Issues</a>"
+    },
+    "public_qanda": {
+        "start_header": null,
+        "end_header": null,
+        "source": null,
+        "type": "html",
+        "data": "<a href=\"https://github.com/PSLmodels/PCI/issues\">Issues</a>"
+    },
 	"core_maintainers": {
 		"start_header": null,
 		"end_header": null,
@@ -69,26 +69,33 @@
 		"type": "html",
 		"data": "<ul><li>Julian TszKin Chan</li><li>Weifeng Zhong</li></ul>"
 	},
-	"unit_test": {
-		"start_header": null,
-		"end_header": null,
-		"source": null,
-		"type": "html",
-		"data": "<a href=\"https://github.com/PSLmodels/PCI/tree/master/PCI-China/tests\">https://github.com/PSLmodels/PCI/tree/master/PCI-China/tests</a>"
-	},
-	"integration_test": {
-		"start_header": null,
-		"end_header": null,
-		"source": null,
-		"type": "html",
-		"data": "<a href=\"https://github.com/PSLmodels/PCI/tree/master/PCI-China/tests\">https://github.com/PSLmodels/PCI/tree/master/PCI-China/tests</a>"
-	},
+    "unit_test": {
+        "start_header": null,
+        "end_header": null,
+        "source": null,
+        "type": "html",
+        "data": "<a href=\"https://github.com/PSLmodels/PCI/tree/master/PCI-China/tests\">PCI unit tests</a>"
+    },
+    "integration_test": {
+        "start_header": null,
+        "end_header": null,
+        "source": null,
+        "type": "html",
+        "data": "<a href=\"https://github.com/PSLmodels/PCI/tree/master/PCI-China/tests\">PCI integration test</a>"
+    },
     "contributor_overview": {
         "start_header": null,
         "end_header": null,
         "source": "https://github.com/PSLmodels/PCI",
         "type": "html",
         "data": "<p>If you want to report a <b>bug</b>, create a new issue at <a href=\"https://github.com/PSLmodels/PCI/issues\">https://github.com/PSLmodels/PCI/issues</a> </p>"
+    },
+    "user_changelog": {
+        "start_header": null,
+        "end_header": null,
+        "source": null,
+        "type": "html",
+        "data": "<a href=\"https://github.com/PSLmodels/PCI/README.md\">Getting Started contributing to the PCI project.</a>"
     },
     "key_features": {
         "start_header": null,
