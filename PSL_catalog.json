@@ -65,9 +65,9 @@
 	"core_maintainers": {
 		"start_header": null,
 		"end_header": null,
-		"source": "Julian TszKin Chan; Weifeng Zhong",
-		"type": null,
-		"data": "Core Maintainers"
+		"source": null,
+		"type": "html",
+		"data": "<ul><li>Julian TszKin Chan</li><li>Weifeng Zhong</li></ul>"
 	},
 	"unit_test": {
 		"start_header": null,
