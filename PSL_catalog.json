@@ -9,42 +9,42 @@
 	"project_overview": {
 		"start_header": "What is the Policy Change Index (PCI) of China?",
 		"end_header": "Disclaimer",
-		"source": "https://github.com/PSLmodels/PCI/blob/master/README.md",
+		"source": "README.md",
 		"type": "github_file",
 		"data": null
 	},
 	"citation": {
 		"start_header": "Citing the Policy Change Index (PCI) of China",
 		"end_header": null,
-		"source": "https://github.com/PSLmodels/PCI/blob/master/README.md",
+		"source": "README.md",
 		"type": "github_file",
 		"data": null
 	},
 	"license": {
 		"start_header": null,
 		"end_header": null,
-		"source": "https://github.com/PSLmodels/PCI/blob/master/LICENSE.md",
+		"source": "LICENSE.md",
 		"type": "github_file",
 		"data": null
 	},
 	"user_documentation": {
 		"start_header": null,
 		"end_header": null,
-		"source": "https://github.com/PSLmodels/PCI/blob/master/README.md",
+		"source": "README.md",
 		"type": "github_file",
 		"data": "PCI User Documentation"
 	},
 	"user_changelog": {
 		"start_header": null,
 		"end_header": null,
-		"source": "https://github.com/PSLmodels/PCI/blob/master/CHANGES.md",
+		"source": "CHANGES.md",
 		"type": "github_file",
 		"data": null
 	},
 	"disclaimer": {
 		"start_header": "Disclaimer",
 		"end_header": "Usage",
-		"source": "https://github.com/PSLmodels/PCI/blob/master/README.md",
+		"source": "README.md",
 		"type": "github_file",
 		"data": null
 	},
