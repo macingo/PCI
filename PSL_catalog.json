@@ -13,13 +13,6 @@
         "type": "github_file",
         "data": null
     },
-    // "key_features": {
-    //     "start_header": "Key Features",
-    //     "end_header": "Citation",
-    //     "source": "markdown.md",
-    //     "type": "github_file",
-    //     "data": null
-    // },
     "citation": {
         "start_header": "Citing the Policy Change Index (PCI) of China",
         "end_header": null,
@@ -48,20 +41,6 @@
         "type": "github_file",
         "data": null
     },
-    // "user_changelog_recent": {
-    //     "start_header": "User Changelog Recent",
-    //     "end_header": "Dev Changelog",
-    //     "source": "markdown.md",
-    //     "type": "github_file",
-    //     "data": null
-    // },
-    // "dev_changelog": {
-    //     "start_header": "Dev Changelog",
-    //     "end_header": "Disclaimer",
-    //     "source": "markdown.md",
-    //     "type": "github_file",
-    //     "data": null
-    // },
     "disclaimer": {
         "start_header": "Disclaimer",
         "end_header": "Usage",
@@ -69,55 +48,6 @@
         "type": "github_file",
         "data": null
     },
-    // "user_case_studies": {
-    //     "start_header": "User Case Studies",
-    //     "end_header": "Project Roadmap",
-    //     "source": "markdown.md",
-    //     "type": "github_file",
-    //     "data": null
-    // },
-    // "project_roadmap": {
-    //     "start_header": "Project Roadmap",
-    //     "end_header": "Contributor Overview",
-    //     "source": "markdown.md",
-    //     "type": "github_file",
-    //     "data": null
-    // },
-    // "contributor_overview": {
-    //     "start_header": "Contributor Overview",
-    //     "end_header": "Contributor Guide",
-    //     "source": "markdown.md",
-    //     "type": "github_file",
-    //     "data": null
-    // },
-    // "contributor_guide": {
-    //     "start_header": "Contributor Guide",
-    //     "end_header": "Governance Overview",
-    //     "source": "markdown.md",
-    //     "type": "github_file",
-    //     "data": null
-    // },
-    // "governance_overview": {
-    //     "start_header": "Governance Overview",
-    //     "end_header": "Public Funding",
-    //     "source": "markdown.md",
-    //     "type": "github_file",
-    //     "data": null
-    // },
-    // "public_funding": {
-    //     "start_header": "Public Funding",
-    //     "end_header": "Link to webapp",
-    //     "source": "markdown.md",
-    //     "type": "github_file",
-    //     "data": null
-    // },
-    // "link_to_webapp": {
-    //     "start_header": "Link to webapp",
-    //     "end_header": "Link to public issue tracker",
-    //     "source": "markdown.md",
-    //     "type": "github_file",
-    //     "data": null
-    // },
     "public_issue_tracker": {
         "start_header": null,
         "end_header": null,
