@@ -86,7 +86,7 @@
     "contributor_overview": {
         "start_header": null,
         "end_header": null,
-        "source": null,
+        "source": "https://github.com/PSLmodels/PCI",
         "type": "html",
         "data": "<p>If you want to report a <b>bug</b>, create a new issue at <a href=\"https://github.com/PSLmodels/PCI/issues\">https://github.com/PSLmodels/PCI/issues</a> </p>"
     },
