@@ -30,16 +30,16 @@
 	"user_documentation": {
 		"start_header": null,
 		"end_header": null,
-		"source": "README.md",
-		"type": "github_file",
-		"data": "PCI User Documentation"
+		"source": "https://github.com/PSLmodels/PCI/blob/master/README.md",
+		"type": "html",
+		"data": "<a href=\"https://github.com/PSLmodels/PCI/blob/master/README.md\">https://github.com/PSLmodels/PCI/blob/master/README.md</a>"
 	},
 	"user_changelog": {
 		"start_header": null,
 		"end_header": null,
-		"source": "CHANGES.md",
-		"type": "github_file",
-		"data": null
+		"source": "https://github.com/PSLmodels/PCI/blob/master/CHANGES.md",
+		"type": "html",
+		"data": "<a href=\"https://github.com/PSLmodels/PCI/blob/master/CHANGES.md\">https://github.com/PSLmodels/PCI/blob/master/CHANGES.md</a>"
 	},
 	"disclaimer": {
 		"start_header": "Disclaimer",
