@@ -23,9 +23,9 @@
 	"license": {
 		"start_header": null,
 		"end_header": null,
-		"source": "LICENSE.md",
-		"type": "github_file",
-		"data": null
+		"source": "https://github.com/PSLmodels/PCI/blob/master/LICENSE.md",
+		"type": "html",
+		"data": "<p>GNU Affero General Public License v3.0</p>"
 	},
 	"user_documentation": {
 		"start_header": null,
