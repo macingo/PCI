@@ -88,7 +88,7 @@
         "end_header": null,
         "source": "https://github.com/PSLmodels/PCI",
         "type": "html",
-        "data": "<p>If you want to report a <b>bug</b>, create a new issue <a href=\"https://github.com/open-source-economics/OG-USA/issues\">here</a> providing details on what you think is wrong with OG-USA.</p><p>If you want to request <b>an enhancement</b>, create a new issue <a href=\"https://github.com/open-source-economics/OG-USA/issues\">here</a> providing details on what you think should be added to OG-USA. </p>"
+        "data": "<p>If you want to report a <b>bug</b>, create a new issue at <a href=\"https://github.com/PSLmodels/PCI/issues\">https://github.com/PSLmodels/PCI/issues</a> </p>"
     },
     "key_features": {
         "start_header": null,
