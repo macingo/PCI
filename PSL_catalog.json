@@ -2,16 +2,16 @@
     "project_one_line": {
         "start_header": null,
         "end_header": null,
-        "source": "https://github.com/PSLmodels/PCI",
+        "source": null,
         "type": "html",
-        "data": "A machine learning project that analyzes state-run media to predict policy changes."
+        "data": "<p>A machine learning project that analyzes state-run media to predict policy changes.</p>"
     },
     "project_overview": {
         "start_header": "What is the Policy Change Index (PCI) of China?",
         "end_header": "Disclaimer",
         "source": "https://github.com/PSLmodels/PCI/blob/master/README.md",
         "type": "github_file",
-        "data": "What is the Policy Change Index (PCI) of China?"
+        "data": null
     },
     // "key_features": {
     //     "start_header": "Key Features",
@@ -25,14 +25,14 @@
         "end_header": null,
         "source": "https://github.com/PSLmodels/PCI/blob/master/README.md",
         "type": "github_file",
-        "data": "Citing the Policy Change Index (PCI) of China"
+        "data": null
     },
     "license": {
         "start_header": null,
         "end_header": null,
         "source": "https://github.com/PSLmodels/PCI/blob/master/LICENSE.md",
         "type": "github_file",
-        "data": "PCI Open-Source License"
+        "data": "null"
     },
     "user_documentation": {
         "start_header": null,
@@ -46,7 +46,7 @@
         "end_header": null,
         "source": "https://github.com/PSLmodels/PCI/blob/master/CHANGES.md",
         "type": "github_file",
-        "data": "PCI Change Log"
+        "data": null
     },
     // "user_changelog_recent": {
     //     "start_header": "User Changelog Recent",
@@ -67,7 +67,7 @@
         "end_header": "Usage",
         "source": "https://github.com/PSLmodels/PCI/blob/master/README.md",
         "type": "github_file",
-        "data": "Disclaimer"
+        "data": null
     },
     // "user_case_studies": {
     //     "start_header": "User Case Studies",
@@ -121,16 +121,16 @@
     "public_issue_tracker": {
         "start_header": null,
         "end_header": null,
-        "source": "https://github.com/PSLmodels/PCI/issues",
-        "type": "github_file",
-        "data": "PCI Issues"
+        "source": null,
+        "type": "html",
+        "data": "<a href=\"https://github.com/PSLmodels/PCI/issues\">https://github.com/PSLmodels/PCI/issues</a>"
     },
     "public_qanda": {
         "start_header": null,
         "end_header": null,
-        "source": "https://github.com/PSLmodels/PCI/issues",
-        "type": "github_file",
-        "data": "PCI Public Q&As"
+        "source": null,
+        "type": "html",
+        "data": "<a href=\"https://github.com/PSLmodels/PCI/issues\">https://github.com/PSLmodels/PCI/issues</a>"
     },
     "core_maintainers": {
         "start_header": null,
@@ -142,15 +142,15 @@
     "unit_test": {
         "start_header": null,
         "end_header": null,
-        "source": "https://github.com/PSLmodels/PCI/tree/master/PCI-China/tests",
-        "type": "github_file",
-        "data": "Unit Tests"
+        "source": null,
+        "type": "html",
+        "data": "<a href=\"https://github.com/PSLmodels/PCI/tree/master/PCI-China/tests\">https://github.com/PSLmodels/PCI/tree/master/PCI-China/tests</a>"
     },
     "integration_test": {
         "start_header": null,
         "end_header": null,
-        "source": "https://github.com/PSLmodels/PCI/tree/master/PCI-China/tests",
-        "type": "github_file",
-        "data": "Integration Tests"
+        "source": null,
+        "type": "html",
+        "data": "<a href=\"https://github.com/PSLmodels/PCI/tree/master/PCI-China/tests\">https://github.com/PSLmodels/PCI/tree/master/PCI-China/tests</a>"
     }
 }
