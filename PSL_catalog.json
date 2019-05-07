@@ -43,7 +43,7 @@
     },
 	"disclaimer": {
 		"start_header": "Disclaimer",
-		"end_header": "Usage",
+		"end_header": "Getting Started",
 		"source": "README.md",
 		"type": "github_file",
 		"data": null
@@ -84,18 +84,18 @@
         "data": "<a href=\"https://github.com/PSLmodels/PCI/tree/master/PCI-China/tests\">PCI integration test</a>"
     },
     "contributor_overview": {
-        "start_header": null,
-        "end_header": null,
-        "source": "https://github.com/PSLmodels/PCI",
-        "type": "html",
-        "data": "<p>If you want to report a <b>bug</b>, create a new issue at <a href=\"https://github.com/PSLmodels/PCI/issues\">https://github.com/PSLmodels/PCI/issues</a> </p>"
+        "start_header": "Getting Started",
+        "end_header": "Usage",
+        "source": "README.md",
+        "type": "github_file",
+        "data": null
     },
     "user_changelog": {
         "start_header": null,
         "end_header": null,
         "source": null,
         "type": "html",
-        "data": "<a href=\"https://github.com/PSLmodels/PCI/README.md\">Getting Started contributing to the PCI project.</a>"
+        "data": "<a href=\"https://github.com/PSLmodels/PCI/README.md\">Getting started contributing to the PCI project.</a>"
     },
     "key_features": {
         "start_header": null,
