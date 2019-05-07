@@ -90,13 +90,6 @@
         "type": "github_file",
         "data": null
     },
-    "user_changelog": {
-        "start_header": null,
-        "end_header": null,
-        "source": null,
-        "type": "html",
-        "data": "<a href=\"https://github.com/PSLmodels/PCI/README.md\">Getting started contributing to the PCI project.</a>"
-    },
     "key_features": {
         "start_header": null,
         "end_header": null,
